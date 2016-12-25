@@ -37,3 +37,6 @@ include vendor/du/config/packages.mk
 
 # Branding
 include vendor/du/config/branding.mk
+
+# Google sounds
+include vendor/du/google/GoogleAudio.mk
