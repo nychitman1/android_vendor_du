@@ -52,3 +52,6 @@ include vendor/du/config/branding.mk
 
 # Google sounds
 include vendor/du/google/GoogleAudio.mk
+
+# Overlays
+PRODUCT_PACKAGE_OVERLAYS += vendor/du/overlay/common
